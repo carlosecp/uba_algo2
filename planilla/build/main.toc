@@ -1,0 +1,10 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}Introducción}{2}{section.1}%
+\contentsline {section}{\numberline {2}Detalles de implementación}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Simulador}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Atención de Pokemones}{3}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Registro en Hospital}{3}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Ingreso de Entrenadores}{4}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.3}Recepción de Pokemones}{5}{subsubsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.3}Manejo de Dificultades}{5}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Interfaz}{6}{subsection.2.4}%

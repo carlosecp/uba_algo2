@@ -1,0 +1,7 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}Introducción}{2}{section.1}%
+\contentsline {section}{\numberline {2}Teoria}{2}{section.2}%
+\contentsline {section}{\numberline {3}Detalles de implementación}{2}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Simulador}{2}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Sala de Espera, Recepcion y Atención de Pokemones}{3}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Interfaz}{3}{subsection.3.3}%
